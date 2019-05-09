@@ -1,0 +1,33 @@
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736      943196     2119924        8824       86572      890044     2853300
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736     1319936     1463528       31820       88368     1167904     2451336
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736     1393892      896808       36036      123724     1625312     2365624
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736     2338208      131320       82408      130684     1439524     1374708
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736     2448000      203760       88088      112680     1275296     1260112
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736     2452712      198956       88080      112788     1275280     1255408
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736     2563032      121472       91464      115972     1239260     1142508
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$ free -w
+              total        used        free      shared     buffers       cache   available
+Mem:        4039736     2567096      116964       91456      116180     1239496     1138488
+Swap:       2097148           0     2097148
+je2011@je2011-VirtualBox:~$

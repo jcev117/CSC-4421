@@ -1,0 +1,2 @@
+csc4421_er0471_Joy_Evans_Lab08P1: csc4421_er0471_Joy_Evans_Lab08P1.c
+	gcc csc4421_er0471_Joy_Evans_Lab08P1.c -o lab8.out
